@@ -29,7 +29,7 @@ info: >
 css: unocss
 title: Deep Learning
 subtitle: Convolutional Neural Networks
-date: 12/02/2024
+date: 03/02/2025
 venue: HSE
 author: Alexey Boldyrev
 ---
@@ -57,10 +57,6 @@ NB: This demo uses a custom syntax (using preparser extensions), with all the @@
 
 ---
 src: ./slides/0_attendance.md
----
-
----
-src: ./slides/0_outline.md
 ---
 
 ---
