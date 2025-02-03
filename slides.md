@@ -56,10 +56,6 @@ NB: This demo uses a custom syntax (using preparser extensions), with all the @@
 -->
 
 ---
-src: ./slides/0_attendance.md
----
-
----
 src: ./slides/0_introduction.md
 ---
 
